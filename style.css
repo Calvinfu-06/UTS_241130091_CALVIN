@@ -14,7 +14,7 @@ h1, nav{
     height: 38px;
 }
 
-h1, nav, .banner{
+h1, nav, .banner, main section{
     margin: 0 6%;
 }
 
@@ -50,4 +50,20 @@ nav a:hover{
 
 .banner img{
     width: 100%;
+}
+
+.Pakaian{
+    border: 1px solid #008000 ;
+}
+
+main section h2{
+    border-bottom: 1px solid #008000;
+}
+
+main section img{
+    width: 150px;
+}
+
+main section img:hover{
+    width: 160px;
 }
